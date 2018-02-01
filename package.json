@@ -1,0 +1,16 @@
+{
+  "name": "rally-bulk-edit-script",
+  "version": "1.0.0",
+  "description": "Script to bulk copy or delete test cases in Rally",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "inquirer": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Port",
+  "license": "ISC"
+}
